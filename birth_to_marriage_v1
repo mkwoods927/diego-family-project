@@ -1,1 +1,138 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingman to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.1134033203125,
+            37.64658749606131
+          ],
+          [
+            -98.3005142211914,
+            37.5151724596446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attica to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.21983337402344,
+            37.243448378654115
+          ],
+          [
+            -98.30017089843749,
+            37.51462781586027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cunningham to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.42857360839844,
+            37.645771969647
+          ],
+          [
+            -98.30085754394531,
+            37.51571709945411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dodge City to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.0140380859375,
+            37.74900069437069
+          ],
+          [
+            -98.30017089843749,
+            37.51844023887861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eureka to Wichita"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.2841796875,
+            37.82280243352756
+          ],
+          [
+            -97.33337402343749,
+            37.69251435532741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hardtner to Wichita"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.646240234375,
+            37.01132594307015
+          ],
+          [
+            -97.327880859375,
+            37.694687703235914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hutchinson to Pretty Prairie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.9376220703125,
+            38.052416771864834
+          ],
+          [
+            -98.02688598632811,
+            37.77777043035903
+          ]
+        ]
+      }
+    }
+  ]
+}
