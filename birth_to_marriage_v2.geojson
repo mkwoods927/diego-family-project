@@ -114,6 +114,66 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Plains to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.58670043945312,
+            37.26203112351243
+          ],
+          [
+            -98.30291748046875,
+            37.520618678869305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pratt to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.73893737792969,
+            37.645771969647
+          ],
+          [
+            -98.30017089843749,
+            37.51626173528878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wichita to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.33406066894531,
+            37.68871084320727
+          ],
+          [
+            -98.30017089843749,
+            37.51735099503349
+          ]
+        ]
+      }
     }
   ]
 }
