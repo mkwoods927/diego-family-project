@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingman to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.1134033203125,
+            37.64658749606131
+          ],
+          [
+            -98.3005142211914,
+            37.5151724596446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attica to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.21983337402344,
+            37.243448378654115
+          ],
+          [
+            -98.30017089843749,
+            37.51462781586027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cunningham to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.42857360839844,
+            37.645771969647
+          ],
+          [
+            -98.30085754394531,
+            37.51571709945411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dodge City to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.0140380859375,
+            37.74900069437069
+          ],
+          [
+            -98.30017089843749,
+            37.51844023887861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medicine Lodge to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.58650207519531,
+            37.27569198215066
+          ],
+          [
+            -98.30017089843749,
+            37.51844023887861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minneola to Willowdale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.01541137695311,
+            37.445425754961384
+          ],
+          [
+            -98.29742431640625,
+            37.51844023887861
+          ]
+        ]
+      }
+    }
+  ]
+}
