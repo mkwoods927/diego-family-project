@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kingman to Willowdale"
+        "name": "Kingman to Willowdale",
+        "frequency": "18"
       },
       "geometry": {
         "type": "LineString",
@@ -23,7 +24,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Attica to Willowdale"
+        "name": "Attica to Willowdale",
+        "frequency": "1"
       },
       "geometry": {
         "type": "LineString",
@@ -42,7 +44,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cunningham to Willowdale"
+        "name": "Cunningham to Willowdale",
+        "frequency": "1"
       },
       "geometry": {
         "type": "LineString",
@@ -61,7 +64,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dodge City to Willowdale"
+        "name": "Dodge City to Willowdale",
+        "frequency": "1"
       },
       "geometry": {
         "type": "LineString",
@@ -80,7 +84,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medicine Lodge to Willowdale"
+        "name": "Medicine Lodge to Willowdale",
+        "frequency": "2"
       },
       "geometry": {
         "type": "LineString",
@@ -99,7 +104,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Minneola to Willowdale"
+        "name": "Minneola to Willowdale",
+        "frequency": "1"
       },
       "geometry": {
         "type": "LineString",
@@ -118,7 +124,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Plains to Willowdale"
+        "name": "Plains to Willowdale",
+        "frequency": "1"
       },
       "geometry": {
         "type": "LineString",
@@ -137,7 +144,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pratt to Willowdale"
+        "name": "Pratt to Willowdale",
+        "frequency": "1"
       },
       "geometry": {
         "type": "LineString",
@@ -156,7 +164,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wichita to Willowdale"
+        "name": "Wichita to Willowdale",
+        "frequency": "2"
       },
       "geometry": {
         "type": "LineString",
