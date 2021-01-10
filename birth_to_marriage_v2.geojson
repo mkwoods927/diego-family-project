@@ -4,8 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kingman to Willowdale",
-        "frequency": "18"
+        "stroke": "#555555",
+        "stroke-width": 18,
+        "stroke-opacity": 1,
+        "name": "Kingman to Willowdale"
       },
       "geometry": {
         "type": "LineString",
@@ -24,8 +26,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Attica to Willowdale",
-        "frequency": "1"
+        "stroke": "#555555",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "name": "Attica to Willowdale"
       },
       "geometry": {
         "type": "LineString",
@@ -44,8 +48,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cunningham to Willowdale",
-        "frequency": "1"
+        "stroke": "#555555",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "name": "Cunningham to Willowdale"
       },
       "geometry": {
         "type": "LineString",
@@ -64,8 +70,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dodge City to Willowdale",
-        "frequency": "1"
+        "stroke": "#555555",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "name": "Dodge City to Willowdale"
       },
       "geometry": {
         "type": "LineString",
@@ -84,8 +92,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medicine Lodge to Willowdale",
-        "frequency": "2"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Medicine Lodge to Willowdale"
       },
       "geometry": {
         "type": "LineString",
@@ -104,8 +114,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Minneola to Willowdale",
-        "frequency": "1"
+        "stroke": "#555555",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "name": "Minneola to Willowdale"
       },
       "geometry": {
         "type": "LineString",
@@ -124,8 +136,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Plains to Willowdale",
-        "frequency": "1"
+        "stroke": "#555555",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "name": "Plains to Willowdale"
       },
       "geometry": {
         "type": "LineString",
@@ -144,8 +158,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pratt to Willowdale",
-        "frequency": "1"
+        "stroke": "#555555",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "name": "Pratt to Willowdale"
       },
       "geometry": {
         "type": "LineString",
@@ -164,8 +180,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wichita to Willowdale",
-        "frequency": "2"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Wichita to Willowdale"
       },
       "geometry": {
         "type": "LineString",
